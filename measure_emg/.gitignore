@@ -1,0 +1,17 @@
+# Keil output directory configured in measure_emg.uvprojx
+/MDK-ARM/measure_emg/
+/MDK-ARM/Objects/
+/MDK-ARM/Listings/
+/MDK-ARM/*.lst
+/Debug/
+/Release/
+
+# Local IDE settings and temporary files
+*.uvguix.*
+*.bak
+*.user
+JLinkLog.txt
+.idea/
+.vscode/
+Thumbs.db
+Desktop.ini
